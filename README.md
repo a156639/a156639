@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**a156639/a156639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 👋
+my name is chen hongming.A computer science student in usm
+### Final Year project 👋
+project title: Driver booking app
+supervisor: Dr Sukumar 
+subsystem:
+1.user management 
+2.driver management
+3.payment gateway
+### MY FYP subsystem 👋
+driver management is about driver name, age,nationality, 
+put all driver information in the system ,that we can easy to search
